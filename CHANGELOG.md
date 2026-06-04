@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-31)
+## Unreleased (2026-06-04)
 
 <section class="features">
 
@@ -26,6 +26,7 @@
 
 <details>
 
+-   [`7c170bd`](https://github.com/stdlib-js/stdlib/commit/7c170bda512238e72c07d5e8b0552b50887d8a7f) - **docs:** update REPL namespace documentation [(#12520)](https://github.com/stdlib-js/stdlib/pull/12520) _(by stdlib-bot)_
 -   [`8777ff6`](https://github.com/stdlib-js/stdlib/commit/8777ff69551cc48a679827ae527efcbf634afa89) - **docs:** update REPL namespace documentation [(#12327)](https://github.com/stdlib-js/stdlib/pull/12327) _(by stdlib-bot)_
 -   [`f5ac264`](https://github.com/stdlib-js/stdlib/commit/f5ac2644a02f17eae509a8b79db6fb01533ba135) - **docs:** update REPL namespace documentation [(#12198)](https://github.com/stdlib-js/stdlib/pull/12198) _(by stdlib-bot)_
 -   [`73eceba`](https://github.com/stdlib-js/stdlib/commit/73ecebacddec71de84b2bbf7200c18c6a052be72) - **feat:** add `truesLike` to namespace _(by Athan Reines)_
